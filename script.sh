@@ -1,13 +1,13 @@
 #!/bin/bash
 
 # update ubunto machine
-sudo apt update
+sudo apt update -y
 
 # install node
-sudo apt install nodejs
+sudo apt install nodejs -y
 
 # install npm
-sudo apt install npm
+sudo apt install npm -y
 
 # install pm2
 sudo npm i -g pm2
