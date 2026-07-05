@@ -18,7 +18,7 @@ sudo npm i -g pm2
 git clone https://github.com/ASIMNEUPANE/aws-demo-project.git /home/ubuntu/project
 
 # cd
-cd /home/ubunto/project
+cd /home/ubuntu/project
 
 # install package
 sudo npm install
